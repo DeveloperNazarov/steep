@@ -1,0 +1,435 @@
+li{
+    display: inline-block;
+}
+.Text{
+    margin-right: 180px;
+    font-family:sans-serif;
+    color: rgb(238, 241, 243);
+}
+.TextHeader{
+    margin-right: 53px;
+    color: rgb(238, 241, 243);
+}
+header{
+    background-image: url(mostheader.jpg);
+    height: 480px;
+    background-size: 100%;
+    color: rgb(238, 241, 243);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.TextText{
+    margin-top: 95px;
+}
+fieldset{
+    color: rgb(196, 199, 229);
+    width: 290px;
+}
+body{
+    list-style: none;
+    margin: auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Signup{
+    font-size: 2rem;
+    color: white;
+}
+.Number1{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.MainDiv{
+    height: 170px;
+    width: 250px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+.h4{
+    color: grey;
+}
+.ColorGrey{
+    color: grey;
+}
+.DivInMainNumber2{
+    height: 250px;
+    width: 100%;
+}
+.BigText{
+    font-size: 3rem;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.DivInMainNumber1{
+    background-color: rgb(242, 247, 248);
+    height: 90px;
+    width: 100%;
+}
+.DivInMainNumber4{
+    height: 550px;
+    width: 100%;
+    background-color: rgb(242, 247, 248 );
+}
+main{
+    width: 100%;
+    margin: 0;
+}
+.Parners{
+    display: flex;
+    width: 100%;
+    height: 90px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.PrTx{
+    margin-right: 25px;
+}
+.BTinD4{
+    height: 75px;
+    width: 100%;
+}
+.In4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#MainClass3{
+    height: 991;
+    width: 100%;
+    background-color: mediumorchid;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    white-space:nowrap;
+}
+#MainClass3>div{
+    height: 900px;
+    width: 600px;
+    display: inline-block;
+}
+#MainClass3>center{
+    color: white;
+}
+.MainClass4{
+    height: 850px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.Img4{
+    float: left;
+}
+.Number1{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.MainDiv2{
+    height: 470px;
+    width: 250px;
+    margin-right: 30px;
+    border-radius: 10px;
+    border-radius: 25px;
+    background-color: rgb(242, 247, 248);
+}
+.MainDiv2>img{
+    border-radius: 25px;
+}
+.MainClass5{
+    height:350px;
+    width: 100%;
+    background-color: rgb(242, 247, 248);   
+}
+.MC5{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#Color{
+    color: black;
+}
+.MainClass6{
+    height: 1100px;
+    width: 100%;
+    background-color: rgb(39, 40, 52);
+}
+.MainClass6>center>h1{
+    color: white;
+    display: flex;
+    width: 100%;
+    height: 80px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.Wh{
+    color: white;
+}
+.Mn{
+    display: table-cell;
+    color: white;
+}
+.DivInMainNumber5{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(242, 247, 248);
+}
+.Input5{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.MainClass7{
+    height: 550px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.MainClass8{
+    background-color: rgb(242, 247, 248); 
+}
+.MM{
+    display: inline-block;
+    margin-right: 45px;
+    margin-left: 52px;
+}
+.qqq{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Bg , .Bd{
+    background-color: rgb(39, 40, 52);
+    width: 100%;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.MainClass6> h1, h4{
+    color: grey;
+}
+.Img7{
+    float: left;
+}
+.Div1InMainNumber7{
+    color: white;
+}
+.MainClass9{
+    height: 850px;
+    width: 100%;
+}
+.MainDiv3{
+    height: 400px;
+    width: 250px;
+    background-color: rgb(242, 247, 248);
+}
+.MainDiv4{
+    height: 400px;
+    width: 250px;
+    background-color: silver;
+}
+.MainDiv5{
+    height: 400px;
+    width: 250px;
+    background-color: gold
+}
+.Number2{
+    display: flex;
+    width: 100%;
+    height: 1050px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.hin3{
+    font-size: 3.3rem;
+}
+.radius{
+    height: 30px;
+    width: 125px;
+    background-color: darkviolet;
+    border-radius: 10px;
+}
+.MainDiv3, .MainDiv4, .MainDiv5{
+    margin-right: 32px;
+}
+.MainClass10{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(242, 247, 248);
+}
+.Number3{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(242, 247, 248);
+}
+.MainDiv6{
+    height: 400px;
+    width: 250px;
+    background-color: rgb(242, 247, 248);
+    margin-right: 24px;
+}
+.radius2{
+    height: 40px;
+    width: 125px;
+    background-color: darkviolet;
+    border-radius: 5px;
+}
+.MainClass11{
+    height: 340px;
+    width: 100%;
+    background-color: rgb(39, 40, 52);
+}
+.Input6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.formbutton{
+    height: 60px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+}
+.Forms{
+    color: white;
+}
+.Foot1{
+    height: 60px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MainClass12{
+    height:170px;
+    width: 100%;
+    background-color: rgb(47, 53, 57);
+}
+.Zvb{
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    color: white;
+}
+li{
+    display: inline-block;
+    margin-right: 10px;
+}
+@media(max-width:768px){
+    .TextHeader{
+        margin-right: 33px;
+    }
+    .TextText{
+        margin-top: 25px;
+    }
+    header{
+        font-size: 100%;
+        height: 435px;
+    }
+    .Img4{
+        height: 250px;
+        width: 950px;
+    }
+    .BTinD4{
+        height: 305px;
+        width: 100px;
+    }
+    .MainClass2{
+        display: flex;
+        flex-direction: column;
+    }
+    .DivInMainNumber4{
+        height: 850px;
+        width: 100%;
+    }
+    .In4In{
+        display: flex;
+        flex-direction: column;
+        height: 230px;
+        width: 100%;
+    }
+    .Img4{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 800px;
+        height: 450px;
+    }
+    #BTinDIn4{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 800px;
+        height: 50px;
+    }
+    #BTinDInIn4{
+        display: flex;
+        justify-content: center;
+        width: 800px;
+        height: 50px;
+    }
+    .MainClass4{
+        height: 1050px;
+        width: 100%;
+    }
+    .MainDiv2{
+        height: 450px;
+        width: 250px;
+        margin-right: 6px;
+        border-radius: 10px;
+        border-radius: 25px;
+        background-color: rgb(242, 247, 248);
+    }
+    .MainClass6{
+        height: 900px;
+        width: 100%;
+        background-color: rgb(39, 40, 52);
+    }
+    .MainClass7{
+        height: 650px;
+    }
+    .Img7{
+        height: 660px;
+        width: 550px;
+    }
+    .MainDiv3, .MainDiv4, .MainDiv5{
+        margin-right:5px;
+    }
+    .MainDiv6{
+        height: 400px;
+        width: 250px;
+        margin-right: 0px;
+    }
+    .MM{
+        display: inline-block;
+        margin-right: 5px;
+        margin-left: 32px;
+    }
+}
